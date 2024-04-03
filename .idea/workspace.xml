@@ -4,7 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="244952df-38a6-4752-a5de-54c9e1edca93" name="Changes" comment="" />
+    <list default="true" id="244952df-38a6-4752-a5de-54c9e1edca93" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo3-invoke-plugin.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/dubbo/org.apache.dubbo.remoting.telnet.TelnetHandler" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/whz/dubbo/telnet/InvokeTelnetHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/whz/dubbo/telnet/SelectTelnetHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/dubbo3-invoke-plugin-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,10 +33,9 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="localRepository" value="$PROJECT_DIR$/../../program/maven/apache-maven-3.5.4-whz/repository" />
-        <option name="mavenHome" value="$PROJECT_DIR$/../../program/maven/apache-maven-3.5.4-whz" />
+        <option name="localRepository" value="$PROJECT_DIR$/../../../../program/maven/apache-maven-3.5.4-whz/repository" />
         <option name="useMavenConfig" value="true" />
-        <option name="userSettingsFile" value="$PROJECT_DIR$/../../program/maven/apache-maven-3.5.4-whz/conf/settings.xml" />
+        <option name="userSettingsFile" value="$PROJECT_DIR$/../../../../program/maven/apache-maven-3.5.4-whz/conf/settings.xml" />
       </MavenGeneralSettings>
     </option>
   </component>
@@ -41,9 +54,9 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/wanghongzhan/Documents/whzProjects/dubbo3-invoke-plugin/src/main/resources",
+    "last_opened_file_path": "/Users/wanghongzhan/Documents/whzProjects/dubbo3-invoke-plugin",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "settings.editor.selected.configurable": "MavenSettings",
     "spring.configuration.checksum": "dee27a911c90e2e5a915cce97aff19e7",
     "vue.rearranger.settings.migration": "true"
   }
@@ -53,6 +66,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src/main/resources" />
       <recent name="$PROJECT_DIR$/src/main/java/com/whz/dubbo/telnet" />
     </key>
@@ -80,7 +94,8 @@
       <workItem from="1697533039133" duration="1119000" />
       <workItem from="1701778902275" duration="1839000" />
       <workItem from="1702372243600" duration="22000" />
-      <workItem from="1712107812272" duration="452000" />
+      <workItem from="1712107812272" duration="598000" />
+      <workItem from="1712108475131" duration="129000" />
     </task>
     <servers />
   </component>
